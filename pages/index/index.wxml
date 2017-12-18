@@ -1,11 +1,47 @@
-<swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+<swiper indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}" style='height:200px;'>
   <block wx:for="{{imgUrls}}" wx:key="index">
-    <swiper-item>
-      <image src="{{item}}" class="slide-image" width="355" height="150"/>
+    <swiper-item style="height:200px;">
+      <image src="{{item}}" class="slide-image"/>
     </swiper-item>
   </block>
 </swiper>
-<!-- <button bindtap='changeIndicatorDots'>indicator-dots</button>
-<button bindtap='changeAutoplay'>autoplay</button>
-<slider bindchange='intervalChange' show-value min="500" max="2000"/>interval
-<slider bindchange="durationChange" show-value min="1000" max="10000"></slider> -->
+<view class='cate-flex-row'>
+  <view class='cate-flex-item'>
+    <view class='cate-p'><icon class="icon-1" size="20" style="background:url('/images/index/icon_group@2x.png');background-size:cover;"/></view>
+    <view class='cate-p'><text>饮料</text></view>
+  </view>
+  <view class='cate-flex-item'>
+    <view class='cate-p'><icon class="icon-1" size="20" style="background:url('/images/index/icon_top@2x.png');background-size:cover;"/></view>
+    <view class='cate-p'><text>烟酒</text></view>
+  </view>
+  <view class='cate-flex-item'>
+    <view class='cate-p'><icon class="icon-1" size="20" style="background:url('/images/index/icon_new@2x.png');background-size:cover;"/></view>
+    <view class='cate-p'><text>零食</text></view>
+  </view>
+  <view class='cate-flex-item'>
+    <view class='cate-p'><icon class="icon-1" size="20" style="background:url('/images/index/icon_rebate@2x.png');background-size:cover"/></view>
+    <view class='cate-p'><text>新品</text></view>
+  </view>
+</view>
+<view class='product-flex-row'>
+  <view class='product-flex-item'>
+    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
+    <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
+  </view>
+  <view class='product-flex-item'>
+    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
+    <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
+  </view>
+   <view class='product-flex-item'>
+    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
+    <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
+  </view>
+  <view class='product-flex-item'>
+    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
+    <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
+  </view>
+</view>
