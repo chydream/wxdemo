@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.6.6",
 	"appid": "wx033b53d0c9712a28",
-	"projectname": "localSupermarket",
+	"projectname": "localSupermarkets",
 	"condition": {
 		"search": {
 			"current": -1,
