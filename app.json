@@ -22,26 +22,26 @@
       {
         "pagePath": "pages/logs/logs",
         "text": "品类",
-        "iconPath": "images/index/icon_menu_grey@2x.png",
-        "selectedIconPath": "images/index/icon_menuicon_red@2x.png"
+        "iconPath": "images/index/icon-2.png",
+        "selectedIconPath": "images/index/icon-2-h.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "我的店铺",
-        "iconPath": "images/index/icon_myshop_grey@2x.png",
-        "selectedIconPath": "images/index/icon_myshop_red@2x.png"
+        "iconPath": "images/index/icon-3.png",
+        "selectedIconPath": "images/index/icon-3-h.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "购物车",
-        "iconPath": "images/index/icon_cart_grey@2x.png",
-        "selectedIconPath": "images/index/icon_cart_red@2x.png"
+        "iconPath": "images/index/icon-4.png",
+        "selectedIconPath": "images/index/icon-4-h.png"
       },
       {
         "pagePath": "pages/logs/logs",
         "text": "我的",
-        "iconPath": "images/index/icon_mine_grey@2x.png",
-        "selectedIconPath": "images/index/icon_mine_red@2x.png"
+        "iconPath": "images/index/icon-5.png",
+        "selectedIconPath": "images/index/icon-5-h.png"
       }
     ]
   }
