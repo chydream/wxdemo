@@ -25,22 +25,22 @@
 </view>
 <view class='product-flex-row'>
   <view class='product-flex-item'>
-    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='img-wrap'><image src="/images/index/item4@2x.png" class="product-image"/></view>
     <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
     <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
   </view>
   <view class='product-flex-item'>
-    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='img-wrap'><image src="/images/index/item4@2x.png" class="product-image"/></view>
     <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
     <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
   </view>
    <view class='product-flex-item'>
-    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='img-wrap'><image src="/images/index/item4@2x.png" class="product-image"/></view>
     <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
     <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
   </view>
   <view class='product-flex-item'>
-    <view><image src="/images/index/item4@2x.png" class="product-image"/></view>
+    <view class='img-wrap'><image src="/images/index/item4@2x.png" class="product-image"/></view>
     <view class='product-title'>九阳 JYF-40FS28电饭煲4L智能家用电饭锅</view>
     <view class='product-price'>¥<text>ddddd</text><span class='product-buy'>购买</span></view>
   </view>
