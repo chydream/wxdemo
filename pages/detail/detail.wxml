@@ -23,6 +23,7 @@
     <view class='cate-p'><text>新品</text></view>
   </view>
 </view>
+<view class="recommend-head">再买**元（**kg以内）包邮，下方凑单区域可以凑单</view> 
 <view class='product-flex-row'>
   <view class='product-flex-item'>
     <view class='img-wrap'><image src="/images/index/item4@2x.png" class="product-image"/></view>

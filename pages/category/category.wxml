@@ -1,0 +1,58 @@
+<view class="wrap-item">
+  <view class="item-img"><image src="/images/category/cover1.png"></image></view>
+  <view class="item-info">
+    <view class='item-p'><navigator url='/pages/detail/detail' hover-class='none'><text>Type something(主标题)</text></navigator></view>
+    <view class='item-price'><text>¥120,22</text></view>
+    <view class='item-btns'>
+      <i class="for-product fr">去购买</i>
+      <span>
+        <image src="/images/category/add-card.png" class="icon-add1"></image>
+        <image src="/images/category/share.png" class="icon-share"></image>
+      </span>
+    </view>
+  </view>
+</view>
+<view class="wrap-item">
+  <view class="item-img"><image src="/images/category/cover1.png"></image></view>
+  <view class="item-info">
+    <view class='item-p'><text>Type something(主标题)</text></view>
+    <view class='item-price'><text>¥120,22</text></view>
+    <view class='item-btns'>
+      <i class="for-product fr">去购买</i>
+      <span>
+        <image src="/images/category/add-card.png" class="icon-add1"></image>
+        <!-- <image src="/images/category/icon-add2.png" class="icon-add2"></image>
+        <image src="/images/category/sc.png" class="icon-file"></image> -->
+        <image src="/images/category/share.png" class="icon-share"></image>
+      </span>
+    </view>
+  </view>
+</view>
+<view class="wrap-item">
+  <view class="item-img"><image src="/images/category/cover1.png"></image></view>
+  <view class="item-info">
+    <view class='item-p'><text>Type something(主标题)</text></view>
+    <view class='item-price'><text>¥120,22</text></view>
+    <view class='item-btns'>
+      <i class="for-product fr">去购买</i>
+      <span>
+        <image src="/images/category/add-card.png" class="icon-add1"></image>
+        <image src="/images/category/share.png" class="icon-share"></image>
+      </span>
+    </view>
+  </view>
+</view>
+<view class="wrap-item">
+  <view class="item-img"><image src="/images/category/cover1.png"></image></view>
+  <view class="item-info">
+    <view class='item-p'><text>Type something(主标题)</text></view>
+    <view class='item-price'><text>¥120,22</text></view>
+    <view class='item-btns'>
+      <i class="for-product fr">去购买</i>
+      <span>
+        <image src="/images/category/add-card.png" class="icon-add1"></image>
+        <image src="/images/category/share.png" class="icon-share"></image>
+      </span>
+    </view>
+  </view>
+</view>
